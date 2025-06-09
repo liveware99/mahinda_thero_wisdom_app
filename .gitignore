@@ -1,0 +1,6 @@
+# Ignore environment files and other unnecessary stuff
+.wisdom-app
+.streamlit/
+__pycache__/
+*.pyc
+.DS_Store
